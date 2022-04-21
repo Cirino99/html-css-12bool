@@ -4,12 +4,42 @@
     box-sizing: border-box;
 }
 
+h2 {
+    padding-bottom: 5px;
+}
 .blu {
-    height: 50px;
     background-color: #006cfa;
     border: solid 1px white;
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
+    padding: 15px;
+}
+.green {
+    padding: 15px;
+    background-color: #00e165;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.margin-top {
+    margin-top: 20px;
+}
+.blu2 {
+    background-color: #006cfa;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 50px;
+}
+.margin-bottom {
+    margin-bottom: 20px;
+}
+.reverse {
+    justify-content: flex-end;
 }
