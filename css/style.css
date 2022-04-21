@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.blu {
+    height: 50px;
+    background-color: #006cfa;
+    border: solid 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
